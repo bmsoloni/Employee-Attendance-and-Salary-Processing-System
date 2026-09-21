@@ -1,0 +1,5 @@
+emp_id,name,department,monthly_base,allowances,hourly_ot_rate,tax_rate
+101,Aarav Sharma,Engineering,65000,5000,350,0.10
+102,Sneha Patil,Marketing,45000,3000,250,0.05
+103,Rohan Verma,Operations,40000,2000,200,0.05
+104,Pooja Nair,HR,50000,4000,280,0.08

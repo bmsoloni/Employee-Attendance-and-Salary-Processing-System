@@ -1,0 +1,29 @@
+================================================================================
+          EXECUTIVE PAYROLL & ATTENDANCE SUMMARY: JUNE 2026
+================================================================================
+Generated At: 2026-09-21 16:00:16
+Total Employees Processed: 4
+
+ID   Name             Dept         Attn %   OT (Hrs)  OT Pay    LOP       Final Pay 
+--------------------------------------------------------------------------------
+101  Aarav Sharma     Engineering     0.0%     0.0h  $   0.00  -$65000.00  $  4500.00
+102  Sneha Patil      Marketing       0.0%     0.0h  $   0.00  -$45000.00  $  2850.00
+103  Rohan Verma      Operations      0.0%     0.0h  $   0.00  -$40000.00  $  1900.00
+104  Pooja Nair       HR              0.0%     0.0h  $   0.00  -$50000.00  $  3680.00
+
+--------------------------------------------------------------------------------
+⚠️  CRITICAL: EMPLOYEES BELOW MINIMUM ATTENDANCE THRESHOLD (< 75%)
+--------------------------------------------------------------------------------
+• #101 Aarav Sharma (Engineering) -> Attendance: 0.0% (0.0/30 days) | Absent: 30.0 days
+• #102 Sneha Patil (Marketing) -> Attendance: 0.0% (0.0/30 days) | Absent: 30.0 days
+• #103 Rohan Verma (Operations) -> Attendance: 0.0% (0.0/30 days) | Absent: 30.0 days
+• #104 Pooja Nair (HR) -> Attendance: 0.0% (0.0/30 days) | Absent: 30.0 days
+
+================================================================================
+FINANCIAL TOTALS FOR DISBURSEMENT
+--------------------------------------------------------------------------------
+Total Base Commitment : $  200,000.00
+Total Overtime Payout : +$       0.00
+Total LOP Deductions  : -$ 200,000.00
+NET CASH DISBURSEMENT : $   12,930.00
+================================================================================
